@@ -1,0 +1,1 @@
+Please change env file database credential to your credentials
